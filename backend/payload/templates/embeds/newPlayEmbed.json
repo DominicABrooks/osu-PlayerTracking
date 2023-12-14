@@ -1,0 +1,18 @@
+{
+    "title": "{title} [{version}]",
+    "description": "{mods} at **{star_rating}** :star: - {bpm} bpm - {duration}\n**{rank}** Rank ({accuracy}%) [{hits}]\n**{pp} pp**",
+    "url": "{beatmap_url}",
+    "color": 4437378,
+    "author": {
+      "name": "New #{i} top play for {username}",
+      "url": "{user_url}",
+      "icon_url": "{avatar_url}"
+    },
+    "footer": {
+      "text": "osu!flex - played on"
+    },
+    "timestamp": "{created_at}",
+    "image": {
+      "url": "{beatmap_cover}"
+    }
+}

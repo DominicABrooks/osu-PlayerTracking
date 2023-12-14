@@ -1,0 +1,27 @@
+{
+  "name": "flex",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominicABrooks/Flex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DominicABrooks/Flex/issues"
+  },
+  "homepage": "https://github.com/DominicABrooks/Flex#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-promise-router": "^4.1.1",
+    "joi": "^17.9.2",
+    "pg": "^8.11.0"
+  }
+}
